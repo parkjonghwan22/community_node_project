@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=안녕하세요.%20NodePHL입니다!&fontSize=35)
 
+NodePHL은 요리 커뮤니티 사이트입니다. <p>
+다른 기술을 사용하지 않고 HTML, CSS, JavaScript로 구성되었으며, 사용자들이 자유롭게 게시글과 댓글로 소통을 할 수 있습니다. 
+
 # <img src=https://user-images.githubusercontent.com/83705076/220615028-32731830-7571-4317-b5d2-93d271d2aa65.png width="300" heigh="100">
 
 | 이름 | Github |
